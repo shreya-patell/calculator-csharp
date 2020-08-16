@@ -1,2 +1,2 @@
 # calculator
-Building a calculator using C#
+Building a simple calculator using C#
